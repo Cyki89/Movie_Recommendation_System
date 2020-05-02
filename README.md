@@ -32,7 +32,7 @@ Data come from [https://grouplens.org/datasets/movielens/](https://grouplens.org
 * <i>extract_available_movies.py</i> - script to create list of available movies to rate
 * <i>ml-latest-small</i> - folder contains datasets
 
-## Example test and results 
+## Example test results 
 <b>User ratings:</b>
 - <i>Lord of the Rings: The Two Towers, The (2002)</i> - 5 stars
 - <i>Kill Bill: Vol. 1 (2003)</i> - 5 stars
